@@ -53,13 +53,7 @@ Here, every repo is an opportunity to grow, break things, and rebuild smarter.
 
 ---
 
-## 🐍 Snake Eating Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/imCrest/imCrest/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
----
 
 ## 🌐 Connect with Me
 
