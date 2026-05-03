@@ -6,6 +6,6 @@
 
 <p align="center">
   <a href="https://github.com/imCrest">
-    <img src="https://komarev.com/ghpvc/?username=imCrest&style=flat-square&color=blue" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=imCrest&plasticl&color=brightgreen" alt="Profile Views" />
   </a>
 </p>
